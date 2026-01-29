@@ -1,0 +1,2 @@
+# Memory-as-Structural-Invariance-A-Topological-Stochastic-and-Noetherian-Framework
+This work presents a unified theoretical framework for understanding memory as a form of structural invariance in complex systems. Departing from conventional views that associate memory with stored states, optimized parameters, or energy minima, the framework defines memory as the persistence of topological structures induced by system dynamics.
